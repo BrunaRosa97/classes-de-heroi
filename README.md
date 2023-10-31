@@ -1,3 +1,3 @@
 # classes-de-heroi
-Desafio Classes de Herói - Dio
-/ Proposto pelo prof Felipão
+Desafio Escrevendo a Classe de um Jogo 
+/ Proposto pelo prof Felipão / DIO 
